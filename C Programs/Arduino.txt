@@ -1,0 +1,3 @@
+2336ae2422d24a07ae475d5f58dd24b6
+
+http://arduino.esp8266.com/stable/package_esp8266com_index.json

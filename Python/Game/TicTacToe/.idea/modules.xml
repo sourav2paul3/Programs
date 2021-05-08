@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Dino/.idea/Dino.iml" filepath="$PROJECT_DIR$/../../Dino/.idea/Dino.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../PROJECT/.idea/PROJECT.iml" filepath="$PROJECT_DIR$/../../PROJECT/.idea/PROJECT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Practice/.idea/Practice.iml" filepath="$PROJECT_DIR$/../../Practice/.idea/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Snake Game/.idea/Snake Game.iml" filepath="$PROJECT_DIR$/../Snake Game/.idea/Snake Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TicTacToe.iml" filepath="$PROJECT_DIR$/.idea/TicTacToe.iml" />
+    </modules>
+  </component>
+</project>
